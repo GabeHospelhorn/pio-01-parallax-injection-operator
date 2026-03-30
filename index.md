@@ -4,15 +4,21 @@
 
 ---
 
-### Core Idea
+### Core Insight
 
-People struggle not because tasks are complex—but because information is introduced at the wrong time.
+People don’t struggle because tasks are complex.
 
-PIO-01 aligns learning with cognitive readiness:
+They struggle because **information is introduced at the wrong time**.
 
-- Stabilize  
-- Expand  
-- Transition  
+---
+
+### What PIO-01 Does
+
+PIO-01 aligns information exposure with cognitive readiness:
+
+- Stabilize understanding  
+- Expand through adjacent ideas  
+- Transition into complexity  
 
 ---
 
@@ -21,6 +27,7 @@ PIO-01 aligns learning with cognitive readiness:
 - Improves human data quality  
 - Reduces inconsistency  
 - Enhances AI reasoning  
+- Scales human judgment  
 
 ---
 
