@@ -1,10 +1,11 @@
-# PIO-01 — Parallax Injection Operator
+# PIO-01
+## Parallax Injection Operator
 
-## Scaling Human Understanding in AI Systems
+### Scaling Human Understanding in AI Systems
 
 ---
 
-### Core Insight
+## Core Insight
 
 People don’t struggle because tasks are complex.
 
@@ -12,34 +13,50 @@ They struggle because **information is introduced at the wrong time**.
 
 ---
 
-### What PIO-01 Does
+## What PIO-01 Does
 
 PIO-01 aligns information exposure with cognitive readiness:
 
-- Stabilize understanding  
-- Expand through adjacent ideas  
-- Transition into complexity  
+- **Stabilize** — form a clear mental model  
+- **Expand** — introduce adjacent perspectives  
+- **Transition** — move into complexity when ready  
 
 ---
 
-### Why It Matters
+## Why It Matters
 
 - Improves human data quality  
-- Reduces inconsistency  
-- Enhances AI reasoning  
-- Scales human judgment  
+- Reduces inconsistency in judgment  
+- Enhances reasoning in AI systems  
+- Scales understanding across users and teams  
 
 ---
 
-### Explore
+## Explore
 
-- [Specification](docs/spec.md)
-- [Alignment Layer](docs/alignment-layer.md)
-- [Use Cases](docs/use-cases.md)
-- [Demo Concept](docs/demo-concept.md)
+- → [Specification](docs/spec.md)  
+- → [Alignment Layer](docs/alignment-layer.md)  
+- → [Use Cases](docs/use-cases.md)  
+- → [Demo Concept](docs/demo-concept.md)  
 
 ---
 
-### Summary
+## One-Line Definition
 
-> This turns AI from an answer engine into a system that helps users think.
+> PIO-01 introduces the right idea at the moment it becomes understandable.
+
+---
+
+## Context
+
+This work focuses on improving:
+- Human Data systems  
+- AI interaction design  
+- Learning under ambiguity  
+
+---
+
+## Summary
+
+> This turns AI from an answer engine  
+> into a system that helps users think.
