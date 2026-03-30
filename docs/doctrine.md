@@ -1,172 +1,122 @@
-# EBM-01 — Energy Budget Model
-## Communication, Compression, and Cognitive Load Allocation
+# PIO-01 + EBM-01 — Doctrine
+
+## Overview
+
+This doctrine defines a unified model for how humans interact with complex information systems.
+
+It combines:
+
+- **PIO-01 (Parallax Injection Operator)** → controls *when* information is introduced  
+- **EBM-01 (Energy Budget Model)** → explains *how cognitive load is distributed*  
+
+Together, they govern how understanding forms, expands, and transitions.
 
 ---
 
-## 1. Overview
+## Core Doctrine
 
-EBM-01 (Energy Budget Model) formalizes communication as a **constrained energy allocation problem** between speaker and listener.
-
-It explains how:
-- representation choice
-- timing of exposure
-- and cognitive readiness
-
-determine whether communication yields clarity, confusion, or misalignment.
+> Understanding is not a function of information volume.  
+> It is a function of **timing and energy distribution**.
 
 ---
 
-## 2. Core Principle
+## Law 1 — Energy Conservation
 
-> **Total cognitive work is conserved—it is redistributed between speaker and listener.**
+> Cognitive work is conserved.  
+> It is redistributed between speaker and listener.
 
----
-
-## 3. System Model
-
-Communication is modeled as:
-
-Speaker → Representation → Listener
-
-Each stage incurs **cognitive energy cost**.
+- Hydration → speaker-heavy  
+- Compression → listener-heavy  
 
 ---
 
-## 4. Energy Distribution Modes
+## Law 2 — Structural Prerequisite
 
-### 4.1 Hydration Mode (Speaker-Weighted)
+> Compression only reduces effort if the structure is already shared.
 
-- full explanation
-- explicit structure
-- continuous mapping
-
-**Properties:**
-- high speaker effort
-- low listener inference burden
-- slower delivery
+Premature compression creates:
+- inconsistency  
+- interpretation burden  
+- misalignment  
 
 ---
 
-### 4.2 Compression Mode (Listener-Weighted)
+## Law 3 — Sequenced Understanding
 
-- abstraction
-- analogy
-- symbolic reference
+All effective systems follow:
 
-**Properties:**
-- low speaker effort
-- high listener inference burden
-- faster delivery
+1. **Stabilize** — form a shared structure  
+2. **Expand** — introduce adjacent perspectives  
+3. **Transition** — move into ambiguity  
 
 ---
 
-## 5. Conservation Law
+## Law 4 — Admissibility
 
-Total Work = Speaker Load + Listener Load
+> Information must only be introduced when it is cognitively traversable.
 
-Reducing one increases the other.
-
----
-
-## 6. Failure Modes
-
-### 6.1 Premature Compression
-- structure not yet shared
-- listener forced to infer
-- results in confusion
+Premature exposure results in:
+- confusion  
+- fragmentation  
+- degraded outputs  
 
 ---
 
-### 6.2 Over-Hydration
-- excessive detail
-- attention fatigue
-- reduced retention
+## Law 5 — Representation Matching
+
+> The effectiveness of communication depends on matching representation to readiness.
+
+- early stage → simple / hydrated  
+- mid stage → structured  
+- late stage → compressed / abstract  
 
 ---
 
-### 6.3 Representation Mismatch
-- wrong abstraction level
-- invalid analogy
-- loss of meaning
+## Law 6 — Transition Instability
+
+> Movement between conceptual basins is inherently unstable.
+
+Systems must:
+- support intermediate representations  
+- avoid forced transitions  
+- preserve return paths  
 
 ---
 
-## 7. Field vs Quantization
+## System Integration
 
-### 7.1 Hydrated Field (Continuous)
-- full conceptual landscape
-- supports gradual understanding
+| Layer | Function |
+|------|--------|
+| EBM-01 | manages cognitive load |
+| PIO-01 | sequences exposure |
 
----
+Together:
 
-### 7.2 Quantized Representation (Discrete)
-- compressed symbols
-- reference points
-- analogical shortcuts
+> **Energy + Timing = Controlled Understanding**
 
 ---
 
-### Constraint
+## Application
 
-> Quantization only works if the field has already been constructed.
+This doctrine applies to:
 
----
-
-## 8. Operational Sequence
-
-Effective communication follows:
-
-1. Hydrate → establish shared structure  
-2. Quantize → reduce cognitive load  
-3. Rehydrate → when instability appears  
+- Human Data systems  
+- AI interaction design  
+- learning systems  
+- decision-making environments  
 
 ---
 
-## 9. Relation to PIO-01
+## Summary
 
-EBM-01 defines **energy dynamics**  
-PIO-01 defines **timing of exposure**
+PIO-01 + EBM-01 define a system where:
 
-| EBM-01 | PIO-01 |
-|--------|--------|
-| Load distribution | Exposure timing |
-| Hydration vs compression | Driftwood / Expansion / Saddle |
-| Energy balance | Admissibility thresholds |
+- understanding is staged  
+- load is managed  
+- transitions are controlled  
 
 ---
 
-## 10. Practical Implications
+## One-Line Definition
 
-Systems should:
-- avoid premature compression
-- minimize unnecessary hydration
-- match representation to user readiness
-- dynamically shift cognitive burden
-
----
-
-## 11. Application Domains
-
-- Human Data / RLHF systems  
-- AI copilots  
-- education systems  
-- enterprise decision environments  
-- cross-functional collaboration  
-
----
-
-## 12. Summary
-
-EBM-01 reframes communication from:
-
-information transfer  
-
-into:
-
-> **energy-aware representation allocation**
-
----
-
-## 13. One-Line Definition
-
-> EBM-01 models communication as the redistribution of cognitive work between speaker and listener under representation constraints.
+> Effective systems align information exposure with cognitive readiness while managing the distribution of cognitive work.
