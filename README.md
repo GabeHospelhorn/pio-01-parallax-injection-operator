@@ -14,3 +14,18 @@ PIO-01 aligns information exposure with cognitive readiness:
 - Saddle Gating (SG-01)
 - Cadence Budget (CB-01)
 - Admissibility Thresholds (AT-01)
+
+## Additional Documentation
+
+- [Human Data Translation](docs/human-data-translation.md)
+- [Real-World Use Cases](docs/use-cases.md)
+- [Interactive Demo Concept](docs/demo-concept.md)
+
+## Positioning
+
+PIO-01 enables systems to:
+- introduce the right concept at the right time
+- reduce cognitive overload
+- improve human judgment quality
+- scale understanding across users and teams
+- 
