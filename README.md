@@ -29,3 +29,28 @@ PIO-01 enables systems to:
 - improve human judgment quality
 - scale understanding across users and teams
 - 
+## Why This Exists
+
+Most AI systems optimize for answers.
+
+PIO-01 optimizes for:
+- understanding formation
+- transition timing
+- cognitive stability
+
+This enables systems to:
+- improve human judgment
+- reduce ambiguity-driven errors
+- scale learning and reasoning
+
+---
+
+## Alignment Relevance
+
+PIO-01 directly improves:
+- human data quality
+- RLHF outcomes
+- model reasoning consistency
+
+See:
+- [Alignment Layer](docs/alignment-layer.md)
