@@ -8,6 +8,14 @@ Rather than presenting information statically, PIO-01 aligns concept exposure wi
 
 ---
 
+## Doctrine Context
+
+PIO-01 operates within a broader system defined by EBM-01 (Energy Budget Model), which governs how cognitive load is distributed between speaker and listener.
+
+See: [Doctrine](doctrine.md)
+
+---
+
 ## 2. Core Principle
 
 > People do not struggle because concepts are complex.  
