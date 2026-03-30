@@ -56,6 +56,19 @@ This work focuses on improving:
 
 ---
 
+---
+
+## System
+
+PIO-01 operates as part of a broader doctrine:
+
+- **PIO-01** → sequencing of information  
+- **EBM-01** → distribution of cognitive load  
+
+Together, they define how understanding forms and scales.
+
+→ [View Doctrine](docs/doctrine.md)
+
 ## Summary
 
 > This turns AI from an answer engine  
