@@ -1,0 +1,87 @@
+<svg width="1400" height="980" viewBox="0 0 1400 980" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #ffffff; }
+    .title { font: 700 34px Arial, Helvetica, sans-serif; fill: #111111; }
+    .subtitle { font: 500 18px Arial, Helvetica, sans-serif; fill: #444444; }
+    .section { font: 700 20px Arial, Helvetica, sans-serif; fill: #111111; }
+    .body { font: 500 16px Arial, Helvetica, sans-serif; fill: #222222; }
+    .small { font: 500 15px Arial, Helvetica, sans-serif; fill: #333333; }
+    .box { fill: #fafafa; stroke: #d8d8d8; stroke-width: 1.5; rx: 14; }
+    .line { stroke: #cfcfcf; stroke-width: 1.5; }
+    .accent { fill: #f4f4f4; stroke: #cfcfcf; stroke-width: 1.5; rx: 14; }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="1400" height="980"/>
+
+  <text x="70" y="75" class="title">PIO-01 + EBM-01 — Doctrine Plate</text>
+  <text x="70" y="105" class="subtitle">Timing, Energy, and Controlled Understanding</text>
+
+  <rect class="accent" x="70" y="140" width="1260" height="72" rx="14"/>
+  <text x="95" y="183" class="body">
+    Effective systems align information exposure with cognitive readiness while managing the distribution of cognitive work.
+  </text>
+
+  <text x="70" y="255" class="section">Core Laws</text>
+
+  <rect class="box" x="70" y="280" width="400" height="145" rx="14"/>
+  <text x="92" y="312" class="body">Law 1 — Energy Conservation</text>
+  <text x="92" y="340" class="small">Cognitive work is conserved and redistributed</text>
+  <text x="92" y="362" class="small">between speaker and listener.</text>
+  <text x="92" y="392" class="small">• Hydration → speaker-weighted</text>
+  <text x="92" y="414" class="small">• Compression → listener-weighted</text>
+
+  <rect class="box" x="500" y="280" width="400" height="145" rx="14"/>
+  <text x="522" y="312" class="body">Law 2 — Structural Prerequisite</text>
+  <text x="522" y="340" class="small">Compression only reduces effort if the</text>
+  <text x="522" y="362" class="small">structure is already shared.</text>
+  <text x="522" y="392" class="small">Premature compression creates:</text>
+  <text x="522" y="414" class="small">• interpretation burden • inconsistency • misalignment</text>
+
+  <rect class="box" x="930" y="280" width="400" height="145" rx="14"/>
+  <text x="952" y="312" class="body">Law 3 — Sequenced Understanding</text>
+  <text x="952" y="340" class="small">1. Stabilize — form shared structure</text>
+  <text x="952" y="362" class="small">2. Expand — introduce adjacent perspectives</text>
+  <text x="952" y="384" class="small">3. Transition — move into ambiguity</text>
+  <text x="952" y="406" class="small">when admissible</text>
+
+  <rect class="box" x="70" y="450" width="400" height="145" rx="14"/>
+  <text x="92" y="482" class="body">Law 4 — Admissibility</text>
+  <text x="92" y="510" class="small">Information must only be introduced when</text>
+  <text x="92" y="532" class="small">it is cognitively traversable.</text>
+  <text x="92" y="562" class="small">Premature exposure results in:</text>
+  <text x="92" y="584" class="small">• confusion • fragmentation • degraded outputs</text>
+
+  <rect class="box" x="500" y="450" width="400" height="145" rx="14"/>
+  <text x="522" y="482" class="body">Law 5 — Representation Matching</text>
+  <text x="522" y="510" class="small">Representation must match readiness.</text>
+  <text x="522" y="540" class="small">• early → hydrated / explicit</text>
+  <text x="522" y="562" class="small">• mid → structured / comparative</text>
+  <text x="522" y="584" class="small">• late → compressed / abstract</text>
+
+  <rect class="box" x="930" y="450" width="400" height="145" rx="14"/>
+  <text x="952" y="482" class="body">Law 6 — Transition Instability</text>
+  <text x="952" y="510" class="small">Movement between conceptual basins is</text>
+  <text x="952" y="532" class="small">inherently unstable.</text>
+  <text x="952" y="562" class="small">Systems must support intermediate</text>
+  <text x="952" y="584" class="small">representations and preserve return paths.</text>
+
+  <text x="70" y="640" class="section">System Pairing</text>
+
+  <rect class="box" x="70" y="665" width="380" height="120" rx="14"/>
+  <text x="92" y="705" class="body">PIO-01</text>
+  <text x="92" y="735" class="small">Controls when information is introduced.</text>
+
+  <rect class="box" x="510" y="665" width="380" height="120" rx="14"/>
+  <text x="532" y="705" class="body">EBM-01</text>
+  <text x="532" y="735" class="small">Governs how cognitive load is distributed.</text>
+
+  <line class="line" x1="450" y1="725" x2="510" y2="725"/>
+
+  <rect class="accent" x="950" y="665" width="380" height="120" rx="14"/>
+  <text x="972" y="705" class="body">Unified Output</text>
+  <text x="972" y="735" class="small">Energy + Timing = Controlled Understanding</text>
+
+  <text x="70" y="845" class="section">Operational Sequence</text>
+  <rect class="box" x="70" y="865" width="1260" height="70" rx="14"/>
+  <text x="95" y="908" class="body">Hydrate → establish shared field    |    Quantize → reduce load once structure exists    |    Rehydrate → when instability appears</text>
+</svg>
