@@ -157,7 +157,13 @@ This doctrine applies to:
 - Human Data systems  
 - AI interaction design  
 - learning systems  
-- decision-making environments  
+- decision-making environments
+
+- ## Doctrine Plate
+
+- [Doctrine](docs/doctrine.md)
+- [Doctrine Plate](docs/doctrine-plate.md)
+- [Doctrine SVG](diagrams/doctrine-plate.svg) 
 
 ---
 
