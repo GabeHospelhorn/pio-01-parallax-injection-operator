@@ -69,6 +69,16 @@ Together, they define how understanding forms and scales.
 
 → [View Doctrine](docs/doctrine.md)
 
+---
+
+## Doctrine Plate
+
+A compact governing surface for timing, energy, and controlled understanding.
+
+- → [Doctrine](docs/doctrine.md)
+- → [Doctrine Plate](docs/doctrine-plate.md)
+- → [Doctrine SVG](diagrams/doctrine-plate.svg)
+
 ## Summary
 
 > This turns AI from an answer engine  
